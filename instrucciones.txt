@@ -1,0 +1,26 @@
+* Crear estructura html y maquetar el html
+* Crear metas nesesarios y links
+* Crear etiquetas contenedoras nesesarios
+    *  <header>
+        <nav>
+
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <article>
+
+            </article>
+        </section>
+        <ul> 
+            <li>     </li>   
+        </ul>
+        <ol>     
+        </ol>
+
+    </main>
+
+    <footer>
+
+    </footer>>
